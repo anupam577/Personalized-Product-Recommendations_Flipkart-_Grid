@@ -23,6 +23,7 @@ Objective -
 * Recommend products with highest number of ratings.
 * Target new customers with most popular products.
 * Solve the [Cold Start Problem](https://github.com/anupam577/Personalized-Product-Recommendations_Flipkart-_Grid/blob/9c0dfea86cb60b661f87c3db256b624c337ee537/ColdStartProblem.md)
+
 Outputs -
 * Recommend top 5 products with 50/100 minimum ratings/interactions.
 
