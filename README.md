@@ -22,7 +22,7 @@ I have used an amazon dataset on user ratings for electronic products, this data
 Objective -
 * Recommend products with highest number of ratings.
 * Target new customers with most popular products.
-* Solve the [Cold Start Problem]
+* Solve the [Cold Start Problem]https://github.com/anupam577/Personalized-Product-Recommendations_Flipkart-_Grid/blob/18d7fb2b8feafd117f7c3f9f859255c2e28cfbe4/ColdStartProblem.md
 
 Outputs -
 * Recommend top 5 products with 50/100 minimum ratings/interactions.
